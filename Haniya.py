@@ -55,7 +55,7 @@ logo = """
 \033[1;93m     \/_/   \/_/   \/_____/   \/_____/   \/_/ /_/ 
 \033[1;91m    ║══▒═💀═▒═💀═▒═══¤═¤═¤════════════¤═══¤═══¤═══║
 \033[1;96m    ║✯ 𝕮𝖗𝖊𝖆𝖙𝖔𝖗  𝕸𝖗.𝕽𝖆𝖓𝖆 𝕬𝖆𝖍𝖎𝖑               ║    
-\033[1;98m    ║✯ 𝖄𝖔𝖚𝖙𝖚𝖇𝖊 ☪ Aahil Creations            ║  
+\033[1;98m    ║✯ 𝖄𝖔𝖚𝖙𝖚𝖇𝖊 ☪ H̸͟͞A̸͟͞N̸͟͞I̸͟͞Y̸͟͞A̸͟͞ K̸͟͞H̸͟͞A̸͟͞N̸͟͞ 👈             ║  
 \033[1;96m    ║✯ 𝕴𝖒 𝖓ø𝖙 𝖗𝖊𝖘𝖕𝖔𝖓𝖘𝖎𝖇𝖑𝖊 𝖋𝖔𝖗 𝖆𝖓𝖞 𝖒𝖎𝖘𝖘 𝖚𝖘𝖊  ║
 \033[1;91m    ║══▒═💀═▒═💀═▒═══¤═¤═¤════════════¤═══¤═══¤═══║"""
 def tik():
@@ -76,7 +76,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \033[1;97m************************************************
-\033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE MR AAHIL ~
+\033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE H̸͟͞a̸͟͞n̸͟͞i̸͟͞y̸͟͞a̸͟͞  ~
 \033[1;97m************************************************
 
 \033[1;95m____─▄───────▄█▄───────▄─ Stay Home 💓
@@ -96,23 +96,23 @@ jalan("\033[1;92m |_| ")
 
 
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "HANI"
+CorrectPassword = "HANI"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;91m📋 \x1b[1;95mTool Username \x1b[1;91m»» \x1b[1;91m")
     if (username == CorrectUsername):
     	password = raw_input("\033[1;91m🗝 \x1b[1;95mTool Password \x1b[1;91m»» \x1b[1;91m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:love_hacker
+            print "Logged in successfully as " + username #Dev:HANI_TRIcker
 	    time.sleep(2)
             loop = 'false'
         else:
             print "\033[1;96mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://www.youtube.com/channel/UCHNT-JPOilcepG3g5fCiqXQ')
     else:
         print "\033[1;96mWrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://m.youtube.com/channel/UCHNT-JPOilcepG3g5fCiqXQ')
 
 def login():
 	os.system('clear')
@@ -205,7 +205,7 @@ def menu():
 	print "\033[1;36;40m      ║\033[1;34;40m[*] ID  \033[1;34;40m: "+id+"        \033[1;36;40m║"
 	print "\033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "\033[1;36;40m      ╚═════════════════════════════════╝"
-	print "    \033[1;32;40m[Type1] \033[1;33;40m‹•.•›Start♥Hacking"	
+	print "    \033[1;32;40m[Type1] \033[1;33;40m‹•.•›Start♥Hacking plz Subcribe my YouTube Channel All Trix Free"	
 	print "    \033[1;32;40m[type2] \033[1;33;40m‹•.•›Update"																														
 	print "    \033[1;32;40m[type0] \033[1;33;40m‹•.•›Logout"
 	pilih()
